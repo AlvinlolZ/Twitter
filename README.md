@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+![Demo File](https://github.com/AlvinlolZ/Twitter/blob/master/Demo/Part1%20Demo.gif)
